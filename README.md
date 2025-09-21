@@ -1,4 +1,4 @@
-<h1 align="left">Desenvolvedor full-stack</h1>
+<h1 align="left">FULL-STACK Developer</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Em busca de aprendizado e evolução como desenvolvedor.<br>Foco em Back-end;<br>conhecimento  intermediário no pacote office;<br>entendimento básico de informática e eletrônicos.</p>
+<p align="left">In search of learning and evolution as a developer.<br>Studying systems development technician;<br>Intermediate knowledge of the office package;<br>Basic knowledge of computers and electronics;<br>Focus on Back-End.<br></p>
 
 ###
 
