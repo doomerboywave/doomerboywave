@@ -1,7 +1,7 @@
 
 <h1 align="left">FULL-STACK DEVELOPER</h1>
 <p align="center">>
-   <img>https://gifs.alphacoders.com/gifs/view/209868</img>
+   <img></img>
 </p>
 
 
