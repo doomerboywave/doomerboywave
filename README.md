@@ -15,7 +15,10 @@
 
 ###
 
-<p align="left">In search of learning and evolution as a developer.<br>Studying systems development technician;<br>Intermediate knowledge of the office package;<br>Basic knowledge of computers and electronics;<br>Focus on Back-End.<br></p>
+<p align="left">Driven by continuous learning and professional evolution as a developer.<br>
+I am currently pursuing a degree in Computer Engineering alongside my training as a Systems Development Technician.<br> 
+With a strong focus on Back-End development, I am actively expanding my technical skill set by exploring and studying new programming languages.<br>
+Additionally, I possess a solid foundation in computer hardware and electronics, complemented by intermediate proficiency in office applications.<br></p>
 
 ###
 
