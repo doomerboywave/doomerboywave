@@ -1,4 +1,4 @@
-<h1 align="left">FULL-STACK Developer</h1>
+<h1 align="left">FULL-STACK DEVELOPER</h1>
 
 ###
 
