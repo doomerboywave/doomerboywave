@@ -1,5 +1,5 @@
 
-<h1 align="left">FULL-STACK DEVELOPER</h1>
+<h1 align="center">FULL-STACK DEVELOPER</h1>
 <p align="center">>
   <img width="500" height="282" alt="Image" src="https://github.com/user-attachments/assets/b58ec210-5a07-444f-b395-daaa01e23492" />
 </p>
