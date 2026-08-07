@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">In search of learning and evolution as a developer.<br>Studying systems development technician;<br>Intermediate knowledge of the office package;<br>Basic knowledge of computers and electronics;<br>Focus on Back-End.<br></p>
+<p align="center">In search of learning and evolution as a developer.<br>Studying systems development technician;<br>Intermediate knowledge of the office package;<br>Basic knowledge of computers and electronics;<br>Focus on Back-End.<br></p>
 
 ###
 
