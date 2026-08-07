@@ -1,6 +1,6 @@
 
 <h1 align="center">FULL-STACK DEVELOPER</h1>
-<p align="center">>
+<p align="center">
   <img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/3910c074-bd8f-461c-a130-781caadb3dc0" />
 </p>
 
