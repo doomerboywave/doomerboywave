@@ -38,10 +38,10 @@ Additionally, I possess a solid foundation in computer hardware and electronics,
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="12" /> 
+   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="12" />  
+ 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -56,13 +56,13 @@ Additionally, I possess a solid foundation in computer hardware and electronics,
    <img width="12" />
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img width="12" />
+ 
      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="12" />      
+       
    
 </div>
 
